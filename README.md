@@ -1,4 +1,4 @@
-#Hayden Merrill
+# Hayden Merrill
 
 I'm a CS student at Colby College. I'm taking CS321: Software Engineering this semester.
 I'll be doing several projects in a group with my classmates.
