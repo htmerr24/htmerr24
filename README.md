@@ -1,4 +1,6 @@
 ### Hi there 👋, I'm Hayden! 
+# He/Him/His
+# Colby College class of 2024
 
 <!--
 **htmerr24/htmerr24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm a CS student at Colby College. I'm taking CS321: Software Engineering this semester.
+## I'm a CS student at Colby College. I'm taking CS321: Software Engineering this semester.
+## I'll be doing several projects in a group with my classmates.
+
+# On my own time, I'll be exploring with HTML, CSS, PHP, and JavaScript.
