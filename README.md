@@ -1,23 +1,8 @@
-### Hi there 👋, I'm Hayden! 
-###### He/Him/His
-###### Colby College class of 2024
+<h1>Hayden Merrill</h1>
+<h3>He/Him/His</h3>
+<h3>Colby College Class of 2024</h3>
 
 <hr/>
-
-<!--
-**htmerr24/htmerr24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ##### I'm a CS student at Colby College. I'm taking CS321: Software Engineering this semester.
 ##### I'll be doing several projects in a group with my classmates.
