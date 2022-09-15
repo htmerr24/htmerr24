@@ -2,6 +2,8 @@
 ###### He/Him/His
 ###### Colby College class of 2024
 
+<hr/>
+
 <!--
 **htmerr24/htmerr24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
