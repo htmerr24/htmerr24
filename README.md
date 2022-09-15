@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 
 ##### I'm a CS student at Colby College. I'm taking CS321: Software Engineering this semester.
-#####I'll be doing several projects in a group with my classmates.
+##### I'll be doing several projects in a group with my classmates.
 
 ###### On my own time, I'll be exploring with HTML, CSS, PHP, and JavaScript.
